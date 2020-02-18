@@ -7,7 +7,7 @@ if(MSVC)
 endif()
 
 project (
-  "PROJECT_NAME"
+  "fake-int"
   VERSION 1.0.0
   DESCRIPTION ""
 )
